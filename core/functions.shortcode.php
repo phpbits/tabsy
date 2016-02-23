@@ -47,6 +47,11 @@ if(!class_exists('WPTABSY_SHORTCODE')){
 		    	$data = wptabsy_shortcode_data( $data );
 		    }
 
+		    if( isset( $pre_atts['shortcode_id'] ) && !empty( $pre_atts['shortcode_id'] ) ){
+		    	$content = get_post_field('post_content', $pre_atts['shortcode_id']);
+		    	$content = wpautop( $content );
+		    }
+
 		    $return = '<div class="'. join(' ', $classes);;
 		    if(!empty($atts['skin'])){
 		    	$return .= ' wptabsy-skin-' . $atts['skin'];

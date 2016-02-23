@@ -5,7 +5,7 @@
  * Plugin Name:       WP Tabsy
  * Plugin URI:        http://codecanyon.net/user/phpbits?ref=phpbits
  * Description:       Easily add smart responsive tab to your contents. Add-ons available! Check <a href="http://codecanyon.net/user/phpbits/portfolio?ref=phpbits" target="_blank">it here</a>.
- * Version:           1.2
+ * Version:           1.3
  * Author:            phpbits
  * Author URI:        http://codecanyon.net/user/phpbits?ref=phpbits
  * Text Domain:       wp-tabsy

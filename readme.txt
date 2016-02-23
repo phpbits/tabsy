@@ -3,7 +3,7 @@ Contributors: phpbits
 Donate link: http://codecanyon.net/user/phpbits?ref=phpbits
 Tags:  jquery tabs, responsive tabs, smart responsive, widget, responsive, tab, shortcode, tabs, tabs shortcode, wordpress tabs, mobile tabs, post tabs, easy responsive, tabsy, fancy tabs, tabber, siteorigin, site origin, siteorigin tabs, siteorigin tab widgets
 Requires at least: 3.8
-Tested up to: 4.4
+Tested up to: 4.4.2
 Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -67,6 +67,9 @@ Check this plugin in action <a href="http://tabsy.phpbits.net/">here</a>.
 
 = 1.1 =
 * Add Tabsy Customizer Support
+
+= 1.2 =
+* Fix Gallery Issue on Customizer
 
 == Upgrade Notice ==
 
