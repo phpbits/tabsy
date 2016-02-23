@@ -47,7 +47,7 @@ if(!class_exists('WPTABSY_SHORTCODE')){
 		    	$data = wptabsy_shortcode_data( $data );
 		    }
 
-		    if( isset( $pre_atts['shortcode_id'] ) && !empty( $pre_atts['shortcode_id'] ) ){
+		    if( isset( $pre_atts['shortcode_id'] ) && !empty( $pre_atts['shortcode_id'] ) && intval( $pre_atts['shortcode_id'] ) > 0 ){
 		    	$content = get_post_field('post_content', $pre_atts['shortcode_id']);
 		    	$content = wpautop( $content );
 		    }
