@@ -3,12 +3,12 @@ Contributors: phpbits
 Donate link: http://codecanyon.net/user/phpbits?ref=phpbits
 Tags:  jquery tabs, responsive tabs, smart responsive, widget, responsive, tab, shortcode, tabs, tabs shortcode, wordpress tabs, mobile tabs, post tabs, easy responsive, tabsy, fancy tabs, tabber, siteorigin, site origin, siteorigin tabs, siteorigin tab widgets
 Requires at least: 3.8
-Tested up to: 4.4.2
+Tested up to: 4.5.2
 Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Tabsy is a free smart responsive wordpress tabs plugin that is designed to fit on every container width beautifully.
+Tabsy is a free smart responsive WordPress tabs plugin that is designed to fit on every container width beautifully.
 
 == Description ==
 
@@ -19,8 +19,8 @@ FontAwesome and Shortcodes powered plugin that will not required any coding know
 <h4>Demo & Instructions</h4>
 Check this plugin in action <a href="http://tabsy.phpbits.space/">here</a>.
 
-<h4>Usage | Shortcode</h4>
-Thanks to wordpress shortcode functions, adding content has never been easy and to make it very convenient for you to use tabsy please make sure you follow the shortcode instructions and attributes below. Thanks!
+<h4>Usage | WordPress Tabs Plugin Shortcode</h4>
+Thanks to WordPress shortcode functions, adding content has never been easy and to make it very convenient for you to use tabsy please make sure you follow the shortcode instructions and attributes below. Thanks!
 
 <pre>
 [wptabsy]
@@ -37,7 +37,7 @@ You can check the full fontawesome icons list <a href="http://fortawesome.github
 <strong><a href="http://codecanyon.net/item/tabsy-customizer-wp-smart-responsive-tabs-addon/11111952?ref=phpbits" target="_blank">Tabsy Customizer</a></strong> - a very powerful add-on for you to easily add the tabs without worrying about cluttered shortcode. This plugin will automatically add tinymce editor button that will allow you to add/edit and remove tab icons and contents. Powered with drag and drop ordering and unlimited color scheme, this plugin is very essential to maximize the usefulness of Tabsy Wordpress Plugin.
 
 
-<strong><a href="http://codecanyon.net/item/tabsy-wordpress-smart-responsive-tabs-for-vc/12873689?ref=phpbits" target="_blank">Tabsy for Visual Composer</a></strong> - easily add smart responsive tabs on your wordpress site using Visual Composer Element. Drag & drop contents and elements for convenient website editing.<br />
+<strong><a href="http://codecanyon.net/item/tabsy-wordpress-smart-responsive-tabs-for-vc/12873689?ref=phpbits" target="_blank">Tabsy for Visual Composer</a></strong> - easily add smart responsive tabs on your WordPress site using Visual Composer Element. Drag & drop contents and elements for convenient website editing.<br />
 
 <strong><a href="http://codecanyon.net/item/tabsy-woocommerce-smart-responsive-tabs-addon/13000704?ref=phpbits" target="_blank">Tabsy for WooCommerce</a></strong> - Turn the default WooCommerce tabs to smart responsive in just a seconds, just activate the plugins and the tabs will automatically upgraded! Change the styling easily via colorpicker options to match the theme color scheme and yes! there are predefined color scheme to choose from. Upgrade your tabs now!
 
