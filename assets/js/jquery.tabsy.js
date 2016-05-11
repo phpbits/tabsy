@@ -177,6 +177,7 @@ if ( typeof Object.create !== 'function' ) {
 
 				e.preventDefault();
 				e.stopPropagation();
+				e.stopImmediatePropagation();
 			});
 		},
 		buildResponsive: function(){
