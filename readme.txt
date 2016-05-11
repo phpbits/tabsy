@@ -17,7 +17,7 @@ Easily add responsive tabs to your posts, pages, post types and even widget with
 FontAwesome and Shortcodes powered plugin that will not required any coding knowledge to use. You can add basically anything inside the tabs - Galleries, contact forms, floating images and other plugin shortcodes.
 
 <h4>Demo & Instructions</h4>
-Check this plugin in action <a href="http://tabsy.phpbits.net/">here</a>.
+Check this plugin in action <a href="http://tabsy.phpbits.space/">here</a>.
 
 <h4>Usage | Shortcode</h4>
 Thanks to wordpress shortcode functions, adding content has never been easy and to make it very convenient for you to use tabsy please make sure you follow the shortcode instructions and attributes below. Thanks!
@@ -55,10 +55,10 @@ e.g.
 
 == Frequently Asked Questions ==
 
-For more information,refer to <a href="http://tabsy.phpbits.net/">Demo Site</a> or ask via forum and I will be very happy to help you.
+For more information,refer to <a href="http://tabsy.phpbits.space/">Demo Site</a> or ask via forum and I will be very happy to help you.
 
 == Screenshots ==
-Check this plugin in action <a href="http://tabsy.phpbits.net/">here</a>.
+Check this plugin in action <a href="http://tabsy.phpbits.space/">here</a>.
 
 == Changelog ==
 
